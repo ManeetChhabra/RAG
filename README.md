@@ -16,8 +16,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system using a fi
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/ManeetChhabra/RAG.git
+cd RAG
 ```
 
 2. Create a virtual environment:
