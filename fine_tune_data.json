@@ -1,0 +1,55 @@
+[
+  {
+    "context": "The Air India Flight 171 crashed shortly after takeoff from Ahmedabad on June 12, 2025. Preliminary reports cite insufficient thrust and an extended takeoff roll. Weather was clear and no warning was issued prior to the incident. All 241 on board, except one survivor, were killed.",
+    "instruction": "What might have caused the Air India plane crash on June 12, 2025?",
+    "output": "The crash was likely due to insufficient thrust during takeoff, despite clear weather and no warning signs. Investigators suspect engine thrust issues, but final causes will be confirmed after decoding the black box."
+  },
+  {
+    "context": "Israel is repatriating around 150,000 citizens after launching strikes on Iran. Emergency flights and cruise ships are being used. Airports like Ben Gurion remain under threat, and authorities are limiting daily returns to 2,500 by air and 2,500 by sea.",
+    "instruction": "How is Israel evacuating its citizens during the Iran conflict?",
+    "output": "Israel is using emergency flights and contracted cruise ships to repatriate around 150,000 citizens. Due to missile threats, airports are operating under strict precautions, limiting the daily return rate."
+  },
+  {
+    "context": "The Singapore-flagged cargo ship MV Wan Hai 503 caught fire off the Kerala coast following an explosion on June 9. The blaze is partially under control, but firefighting is hindered by bad weather and limited access. The ship is 68.5 nautical miles offshore and remains tethered via a single towline.",
+    "instruction": "What is the status of the cargo ship fire off Kerala's coast?",
+    "output": "The fire aboard MV Wan Hai 503 is partially controlled, but heavy weather and high winds are making firefighting and boarding efforts difficult. The vessel remains offshore and connected by a single towline."
+  },
+  {
+    "context": "US President Donald Trump is considering military strikes on Iran’s nuclear facilities amid escalating conflict with Israel. While diplomacy is not off the table, Trump has warned of severe consequences. Iran has vowed retaliation, and people are evacuating Tehran.",
+    "instruction": "What is Donald Trump's position on the US-Iran conflict?",
+    "output": "Trump is leaning toward military action but remains open to diplomacy if Iran agrees to concessions. He has warned Iran’s leadership and urged civilians to evacuate Tehran amid rising tensions."
+  },
+  {
+    "context": "Tehran and Israel are engaged in active conflict. Israel’s military offensive aims to halt Iran’s nuclear ambitions. In response, Iran’s military has carried out retaliatory operations and promised harsher actions. Civilians in both countries are being evacuated.",
+    "instruction": "How is the Iran-Israel conflict affecting civilians?",
+    "output": "Civilians in Tehran and parts of Israel are evacuating due to rising missile threats. Iran has promised stronger retaliation, while Israel defends its actions as necessary to stop Iran’s nuclear development."
+  },
+  
+  {
+    "context": "The lone survivor of the Air India crash was seated near the rear exit and was rescued with severe injuries. Authorities believe the location of his seat, proximity to an emergency exit, and swift response contributed to his survival.",
+    "instruction": "How did the only person survive the Air India crash?",
+    "output": "The survivor was seated near the rear emergency exit, which may have delayed the full impact. His quick rescue and location contributed to his survival, despite critical injuries."
+  },
+  {
+    "context": "Israel has restricted air and sea arrivals to a maximum of 5,000 citizens per day, with advanced biometric checks and military clearance required before landing. These measures are due to missile threats from Iranian proxies in Lebanon and Syria.",
+    "instruction": "Why is Israel limiting the number of citizens returning per day?",
+    "output": "Israel is limiting daily returns to manage security checks and reduce risks from missile threats at airports and seaports, especially from Iranian-backed forces in nearby regions."
+  },
+  {
+    "context": "Firefighting teams attempting to control the MV Wan Hai 503 fire are facing extreme sea turbulence and limited visibility. The Indian Navy is on standby but unable to board safely until weather conditions improve.",
+    "instruction": "Why are rescue operations delayed for the Kerala cargo ship fire?",
+    "output": "Rescue operations are delayed due to severe sea turbulence and poor visibility, which make it unsafe for naval teams to board the burning ship."
+  },
+  {
+    "context": "Iran has issued an evacuation advisory for southern Tehran, fearing a possible Israeli airstrike targeting nuclear-related facilities. The Iranian army has moved reinforcements into underground bunkers and radar-jamming systems are being deployed.",
+    "instruction": "Why is Iran evacuating civilians from Tehran?",
+    "output": "Iran is evacuating civilians from Tehran due to fears of an Israeli airstrike on nuclear facilities. Military reinforcements and radar defenses are being deployed for protection."
+  },
+  {
+    "context": "Experts say the Air India crash may renew conversations around pilot training and older aircraft decommissioning. The plane involved was over 20 years old and had completed its last maintenance check three months prior.",
+    "instruction": "What concerns have been raised after the Air India crash?",
+    "output": "The crash raised concerns over pilot training standards and the continued use of aging aircraft. Investigators are looking into maintenance records and cockpit procedures."
+  }
+
+
+]
